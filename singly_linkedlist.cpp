@@ -15,4 +15,6 @@ class LinkedList {
             START = NULL;
         }
 
-        
+        void addNode()
+        {
+            
