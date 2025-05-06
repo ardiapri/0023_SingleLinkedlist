@@ -51,4 +51,10 @@ class LinkedList {
             previous->next = newNode;
         }
 
+        bool listEmpty() 
+        {
+            return (START == NULL);
+
+        }
+
         
